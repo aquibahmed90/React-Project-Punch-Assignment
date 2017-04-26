@@ -17,11 +17,7 @@ import { syncHistoryWithStore } from 'react-router-redux';
 import { useScroll } from 'react-router-scroll';
 import 'sanitize.css/sanitize.css';
 
-//by aquib
 
-import 'login.css/login.css';
-
-//end by aquib
 
 // Import root app
 import App from 'containers/App';
